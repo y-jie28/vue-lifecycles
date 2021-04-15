@@ -25,3 +25,8 @@ Pros
 Cons
 - Difficult to read and manage code with plain JavaScript. 
 - Tooling required if you want to make the process faster. 
+
+## Components
+- Components are the pieces that make up your application. e.g. header, footer, posts, lists, etc. 
+- Makes it easy to manage the sections of your page. 
+- Components are reusable. 
